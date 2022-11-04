@@ -1,0 +1,11 @@
+.idea
+node_modules
+
+.git
+
+logs
+
+*.log
+cred
+
+Dockerfile
